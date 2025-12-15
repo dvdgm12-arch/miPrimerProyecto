@@ -1,0 +1,8 @@
+Objetivos del proyecto:
+- Aprender GIT base
+- Aprender GitHub base
+- Aprender GitKraken base
+
+- Dominar ramas en GIT
+- Aprender merge base
+- Aprender a subir proyectos a GitHub
