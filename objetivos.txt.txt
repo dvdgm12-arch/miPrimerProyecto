@@ -4,3 +4,4 @@ Objetivos del proyecto:
 - Aprender GitKraken base
 
 - Dominar ramas en GIT
+- Aprender merge base
