@@ -5,3 +5,4 @@ Objetivos del proyecto:
 
 - Dominar ramas en GIT
 - Aprender merge base
+- Aprender a subir proyectos a GitHub
